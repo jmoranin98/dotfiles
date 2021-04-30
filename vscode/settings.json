@@ -1,0 +1,30 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "'Cascadia Code', 'Jetbrains Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 15,
+    "editor.lineHeight": 24,
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Dobri Next -C05- Electron",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "zenMode.centerLayout": false,
+    "zenMode.hideLineNumbers": false,
+    "window.menuBarVisibility": "toggle",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "breadcrumbs.enabled": false,
+    "window.zoomLevel": 0.5,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "python.showStartPage": false
+}
