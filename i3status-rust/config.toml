@@ -20,7 +20,7 @@ format = "%a %d/%m/%y %R"
 block = "sound"
 format = "{output_name} {volume}"
 driver = "pulseaudio"
-on_click = "$HOME/.config/i3status/scripts/change-sink.sh"
+on_click = "$HOME/.config/i3status-rust/scripts/change-sink.sh"
 [block.mappings]
 "alsa_output.pci-0000_0a_00.4.analog-stereo" = "🔈"
 "alsa_output.usb-C-Media_Electronics_Inc._USB_Audio_Device-00.analog-stereo" = "🎧"
